@@ -10,11 +10,12 @@ Clone the repository and install dependencies:
 flutter pub get
 flutter run -d chrome
 ```
+```
 lib/
  ┣ models/        # Data models (Pokemon, Team, etc.)
  ┣ services/      # API and data services
  ┣ controllers/   # State management (GetX controllers)
  ┣ pages/         # UI pages (Home, Team Detail, etc.)
  ┗ main.dart      # Entry point
-
+```
 
