@@ -1,11 +1,10 @@
-# heroteam
+# 🦸 HeroTeam
 
-A new Flutter project.
+A Flutter project for managing and creating Pokémon teams.  
 
-## Getting Started
+## 🚀 Getting Started
 
-Using commands under this 
+Clone the repository and install dependencies:
 
-flutter pub get # for install package
-
-flutter run -d chrome # for run in debug mode 
+```bash
+flutter pub get
