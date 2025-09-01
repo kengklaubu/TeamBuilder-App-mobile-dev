@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-using under commands
+Using commands under this 
 
-flutter pub get 
+flutter pub get # for install package
 
-flutter run -d chrome
+flutter run -d chrome # for run in debug mode 
