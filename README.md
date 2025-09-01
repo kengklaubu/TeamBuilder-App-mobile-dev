@@ -20,13 +20,4 @@ lib/
   ┣ widgets/ # Reusable UI components
   ┗ main.dart # Entry point
 ```
-```
-graph TD
-    A[lib] --> B[models]
-    A --> C[services]
-    A --> D[controllers]
-    A --> E[pages]
-    A --> F[storage]
-    A --> G[widgets]
-    A --> H[main.dart]
-```
+
